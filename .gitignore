@@ -23,3 +23,4 @@ taxon-sets/all/*.conf
 taxon-sets/all/*.txt
 taxon-sets/all/tree*
 taxon-sets/all/exploded-*
+taxon-sets/all/astral_out*
