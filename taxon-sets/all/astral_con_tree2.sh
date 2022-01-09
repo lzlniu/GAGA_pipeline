@@ -6,14 +6,14 @@
 #date:2021/12/18
 
 astral_path="/home/people/zelili/zhanglab/programs/Astral/astral.5.7.8.jar"
-trees_path="/home/people/zelili/zhanglab/GAGA/taxon-sets/all/exploded-uces-fastas"
+trees_path="/home/people/zelili/zhanglab/GAGA/taxon-sets/all/mafft-nexus-internal-trimmed-gblocks-fasta"
 work_path="/home/projects/ku_00039/people/zelili/GAGA/taxon-sets/all"
 
-innum=0.25
+innum=0.95
 #min_in=`echo "163*$1" | bc`
 min_in=`echo "163*$innum" | bc`
 min_num=`printf '%.0f' $min_in`
-out_dict="astral_out_ge$min_num"
+out_dict="trimmed_astral_out_ge$min_num"
 
 if [ ! -d $work_path/$out_dict ]; then
 	mkdir $work_path/$out_dict 

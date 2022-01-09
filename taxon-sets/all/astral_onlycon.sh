@@ -15,7 +15,7 @@ min_in=`echo "163*$innum" | bc`
 min_num=`printf '%.0f' $min_in`
 out_dict="astral_out_ge$min_num"
 
-for i in `seq 2 9`; do
+for i in `seq 1 2`; do
 	((m = $i*10))
 	for j in contree treefile; do
 		echo "#!/bin/bash
