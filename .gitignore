@@ -24,3 +24,6 @@ taxon-sets/all/*.txt
 taxon-sets/all/tree*
 taxon-sets/all/exploded-*
 taxon-sets/all/astral_out*
+taxon-sets/all/nexusTofasta.sh.e*
+taxon-sets/all/nexusTofasta.sh.o*
+taxon-sets/all/trimmed_astral_out_*
