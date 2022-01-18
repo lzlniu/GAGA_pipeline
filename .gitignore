@@ -27,3 +27,7 @@ taxon-sets/all/astral_out*
 taxon-sets/all/nexusTofasta.sh.e*
 taxon-sets/all/nexusTofasta.sh.o*
 taxon-sets/all/trimmed_astral_out_*
+taxon-sets/all/astral_topo
+taxon-sets/all/astral_topo2
+taxon-sets/all/topo_*
+taxon-sets/all/data

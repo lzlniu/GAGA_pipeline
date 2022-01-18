@@ -1,0 +1,13 @@
+#!/bin/bash
+
+./maketree.sh /home/projects/ku_00039/people/zelili/GAGA/taxon-sets/all/mafft-nexus-internal-trimmed-gblocks-clean-75p-raxml /home/projects/ku_00039/people/zelili/GAGA/taxon-sets/all/data/astral_out_ge122/cp_con_all_contree_BootstrapCollapsed.nwk new_contree_ge122
+./maketree.sh /home/projects/ku_00039/people/zelili/GAGA/taxon-sets/all/mafft-nexus-internal-trimmed-gblocks-clean-75p-raxml /home/projects/ku_00039/people/zelili/GAGA/taxon-sets/all/data/astral_out_ge147/cp_con_all_contree_BootstrapCollapsed.nwk new_contree_ge147
+./maketree.sh /home/projects/ku_00039/people/zelili/GAGA/taxon-sets/all/mafft-nexus-internal-trimmed-gblocks-clean-75p-raxml /home/projects/ku_00039/people/zelili/GAGA/taxon-sets/all/data/astral_out_ge16/cp_con_all_contree_BootstrapCollapsed.nwk new_contree_ge16
+./maketree.sh /home/projects/ku_00039/people/zelili/GAGA/taxon-sets/all/mafft-nexus-internal-trimmed-gblocks-clean-75p-raxml /home/projects/ku_00039/people/zelili/GAGA/taxon-sets/all/data/astral_out_ge41_old/cp_con_all_contree_BootstrapCollapsed.nwk new_contree_ge41
+./maketree.sh /home/projects/ku_00039/people/zelili/GAGA/taxon-sets/all/mafft-nexus-internal-trimmed-gblocks-clean-75p-raxml /home/projects/ku_00039/people/zelili/GAGA/taxon-sets/all/data/astral_out_ge82/cp_con_all_contree_BootstrapCollapsed.nwk new_contree_ge82
+
+./maketree.sh /home/projects/ku_00039/people/zelili/GAGA/taxon-sets/all/mafft-nexus-internal-trimmed-gblocks-clean-90p-raxml /home/projects/ku_00039/people/zelili/GAGA/taxon-sets/all/data/astral_out_ge122/cp_con_all_contree_BootstrapCollapsed.nwk new_90p_contree_ge122
+./maketree.sh /home/projects/ku_00039/people/zelili/GAGA/taxon-sets/all/mafft-nexus-internal-trimmed-gblocks-clean-90p-raxml /home/projects/ku_00039/people/zelili/GAGA/taxon-sets/all/data/astral_out_ge147/cp_con_all_contree_BootstrapCollapsed.nwk new_90p_contree_ge147
+./maketree.sh /home/projects/ku_00039/people/zelili/GAGA/taxon-sets/all/mafft-nexus-internal-trimmed-gblocks-clean-90p-raxml /home/projects/ku_00039/people/zelili/GAGA/taxon-sets/all/data/astral_out_ge16/cp_con_all_contree_BootstrapCollapsed.nwk new_90p_contree_ge16
+./maketree.sh /home/projects/ku_00039/people/zelili/GAGA/taxon-sets/all/mafft-nexus-internal-trimmed-gblocks-clean-90p-raxml /home/projects/ku_00039/people/zelili/GAGA/taxon-sets/all/data/astral_out_ge41_old/cp_con_all_contree_BootstrapCollapsed.nwk new_90p_contree_ge41
+./maketree.sh /home/projects/ku_00039/people/zelili/GAGA/taxon-sets/all/mafft-nexus-internal-trimmed-gblocks-clean-90p-raxml /home/projects/ku_00039/people/zelili/GAGA/taxon-sets/all/data/astral_out_ge82/cp_con_all_contree_BootstrapCollapsed.nwk new_90p_contree_ge82
